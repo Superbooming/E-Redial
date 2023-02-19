@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-Redial
 A conversational recommender system with high-quality explanations.
 
@@ -186,4 +185,3 @@ A conversational recommender system with high-quality explanations.
    3. 3 point: Average.
    4. 4 point: Good.
    5. 5 point: Perfect.
->>>>>>> 4f98e6f8a846fbc2379dc8f21a8bd08a71bf8343

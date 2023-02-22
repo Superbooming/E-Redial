@@ -170,3 +170,4 @@ E-ReDial is a conversational recommender system dataset with high-quality explan
     }
 ```
 
+The values of *role* are 0 or 1, which refers to the user who look for recommendations and the system who offer recommendations respectively. If the value of *role* is 1, the  *movie* mentioned in response and the responding *knowledge* is offered. The *rewrite* means whether the response is rewrite. If the *rewrite* is 1, the different components of response, i.e., *reason*, *description*, *encourage*, are offered.

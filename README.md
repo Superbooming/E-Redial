@@ -1,5 +1,5 @@
-# E-Redial
-E-ReDial is a conversational recommender system dataset with high-quality explanations. It consists of 756 dialogues with 12,003 utterances, each with 15.9 turns on average.  2,058 high-quality explanations are included, each with 79.2 tokens on average. The dataset is under the folder "dataset/". An example of a dialogue in E-ReDial is as follows:
+# E-Eedial
+E-EeDial is a conversational recommender system dataset with high-quality explanations. It consists of 756 dialogues with 12,003 utterances, each with 15.9 turns on average.  2,058 high-quality explanations are included, each with 79.2 tokens on average. The dataset is under the folder "dataset/". An example of a dialogue in E-EeDial is as follows:
 
 ```json
 {
